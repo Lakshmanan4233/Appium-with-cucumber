@@ -1,0 +1,1310 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-05-30T13:03:20.068Z",
+        "line": 11,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16119073800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4586692000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5900910800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Ganesh\",\"BijoyAlia\",\"GaneshBijyAlia2\",\"56*@Aliaa\",\"12.3534@co.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ganesh\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"BijoyAlia\"",
+                  "offset": 46
+                },
+                {
+                  "val": "\"GaneshBijyAlia2\"",
+                  "offset": 58
+                },
+                {
+                  "val": "\"56*@Aliaa\"",
+                  "offset": 76
+                },
+                {
+                  "val": "\"12.3534@co.in\"",
+                  "offset": 88
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3115241900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:03:49.944Z",
+        "line": 12,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15726862800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4813569700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5805927400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"AadishNaresh\",\"Sankar\",\"SankarGanesh1\",\"!sanAr73*#\",\"45f.ag54.q@jo.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"AadishNaresh\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Sankar\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"SankarGanesh1\"",
+                  "offset": 61
+                },
+                {
+                  "val": "\"!sanAr73*#\"",
+                  "offset": 77
+                },
+                {
+                  "val": "\"45f.ag54.q@jo.in\"",
+                  "offset": 90
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3121477800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:04:19.419Z",
+        "line": 13,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15342527000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4993046700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6290520400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"LaveenaRadheshyam\",\"Hans\",\"RupalLalitHans0\",\"ramp#@$7P\",\".112sd@su.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"LaveenaRadheshyam\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Hans\"",
+                  "offset": 57
+                },
+                {
+                  "val": "\"RupalLalitHans0\"",
+                  "offset": 64
+                },
+                {
+                  "val": "\"ramp#@$7P\"",
+                  "offset": 82
+                },
+                {
+                  "val": "\".112sd@su.in\"",
+                  "offset": 94
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3114945800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:04:49.166Z",
+        "line": 14,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15382856900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4900096500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5862195500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Jasmin\",\"VenkatMisra\",\"Indrani4\",\"124indu56#P\",\"i.nd@hotmail.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Jasmin\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"VenkatMisra\"",
+                  "offset": 46
+                },
+                {
+                  "val": "\"Indrani4\"",
+                  "offset": 60
+                },
+                {
+                  "val": "\"124indu56#P\"",
+                  "offset": 71
+                },
+                {
+                  "val": "\"i.nd@hotmail.com\"",
+                  "offset": 85
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3100868200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:05:18.424Z",
+        "line": 15,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15618130600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4863823500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6271730200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Komal\",\"Sura\",\"Sukriti\",\"Sukriti126^\",\"suk.123@yahoo.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Komal\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Sura\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Sukriti\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"Sukriti126^\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"suk.123@yahoo.com\"",
+                  "offset": 76
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3090325700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:05:48.276Z",
+        "line": 16,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15375221400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4679066900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6321468600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Jobin\",\"Ram Mall\",\"Rambosidha123\",\"RAMa@!234\",\"once12@big.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Jobin\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Ram Mall\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Rambosidha123\"",
+                  "offset": 56
+                },
+                {
+                  "val": "\"RAMa@!234\"",
+                  "offset": 72
+                },
+                {
+                  "val": "\"once12@big.in\"",
+                  "offset": 84
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3088734400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:06:17.746Z",
+        "line": 17,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15497588600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4945341900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6264829900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"RadheDev\",\"Varughese\",\"Wolksradhe\",\"wolk69@#$L\",\"wolk@rise.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"RadheDev\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Varughese\"",
+                  "offset": 48
+                },
+                {
+                  "val": "\"Wolksradhe\"",
+                  "offset": 60
+                },
+                {
+                  "val": "\"wolk69@#$L\"",
+                  "offset": 73
+                },
+                {
+                  "val": "\"wolk@rise.com\"",
+                  "offset": 86
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3135403100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:06:47.597Z",
+        "line": 18,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15581601300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4982514700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6304818300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Tulsi\",\"Gola\",\"WolksradheGola\",\"!GOLA123o$\",\"wolk@gmail.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Tulsi\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Gola\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"WolksradheGola\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"!GOLA123o$\"",
+                  "offset": 69
+                },
+                {
+                  "val": "\"wolk@gmail.com\"",
+                  "offset": 82
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3074800700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:07:17.549Z",
+        "line": 19,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15351442400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4981544100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6315314600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Mohan\",\"Ram\",\"MohanRam\",\"Mo0han!#\",\"wolk@gmail.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Mohan\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Ram\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"MohanRam\"",
+                  "offset": 51
+                },
+                {
+                  "val": "\"Mo0han!#\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"wolk@gmail.in\"",
+                  "offset": 73
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3112556600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:07:47.315Z",
+        "line": 20,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15707364500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4799325300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6207613400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"RamGopal\",\"PratapKunda\",\"PratapKundaRamGopal\",\"00000Oo$\",\"wolk@gmail.rise\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"RamGopal\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"PratapKunda\"",
+                  "offset": 48
+                },
+                {
+                  "val": "\"PratapKundaRamGopal\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"00000Oo$\"",
+                  "offset": 84
+                },
+                {
+                  "val": "\"wolk@gmail.rise\"",
+                  "offset": 95
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3083292100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:08:17.122Z",
+        "line": 21,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15440271900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4930524100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6262553700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Ibrahim\",\"Gaba\",\"Gabaa\",\"PPPPPp!!^1\",\"rise@wolk.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ibrahim\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Gaba\"",
+                  "offset": 47
+                },
+                {
+                  "val": "\"Gabaa\"",
+                  "offset": 54
+                },
+                {
+                  "val": "\"PPPPPp!!^1\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"rise@wolk.com\"",
+                  "offset": 75
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3091717400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:08:46.857Z",
+        "line": 22,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;13",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15280996100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4922733100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6306218400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Sabina\",\"MohanlalPingle\",\"PratapKundaRamGopalq\",\"Ram#$1234\",\"12wolk@gmail.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sabina\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"MohanlalPingle\"",
+                  "offset": 46
+                },
+                {
+                  "val": "\"PratapKundaRamGopalq\"",
+                  "offset": 63
+                },
+                {
+                  "val": "\"Ram#$1234\"",
+                  "offset": 86
+                },
+                {
+                  "val": "\"12wolk@gmail.com\"",
+                  "offset": 98
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3122678600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:09:16.495Z",
+        "line": 23,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;14",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15273165600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4829833200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6321135600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Chandni\",\"Nori\",\"NOORI\",\"NOOORI1i!#\",\"chan.da@outlook.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Chandni\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Nori\"",
+                  "offset": 47
+                },
+                {
+                  "val": "\"NOORI\"",
+                  "offset": 54
+                },
+                {
+                  "val": "\"NOOORI1i!#\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"chan.da@outlook.com\"",
+                  "offset": 75
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3105734500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:09:46.032Z",
+        "line": 24,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;15",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15368911800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5067524200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6229922600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Ricky\",\"Salvi\",\"77889966554433200\",\"SalVIGhI!%1\",\"oops@gmail.com\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ricky\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Salvi\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"77889966554433200\"",
+                  "offset": 53
+                },
+                {
+                  "val": "\"SalVIGhI!%1\"",
+                  "offset": 73
+                },
+                {
+                  "val": "\"oops@gmail.com\"",
+                  "offset": 87
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3092571700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:10:15.796Z",
+        "line": 25,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;16",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15544245700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5129595300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5488220100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"Ricky\",\"Salvi\",\"885745\",\"111!%!11AAa\",\"runner123@gmail.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ricky\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Salvi\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"885745\"",
+                  "offset": 53
+                },
+                {
+                  "val": "\"111!%!11AAa\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"runner123@gmail.in\"",
+                  "offset": 76
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3088535600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-30T13:10:45.053Z",
+        "line": 26,
+        "name": "Verify the quiz app registration with different data",
+        "description": "",
+        "id": "verify-the-quiz-app-registration;verify-the-quiz-app-registration-with-different-data;;17",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16700939500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user lanuch the quiz app",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_lanuch_the_quiz_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5398518000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User tap the register button",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.user_tap_the_register_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6297104900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enter the data in register page \"RupalLalit\",\"Rampersad\",\"rupaLALITw\",\"ruPa45*^-\",\"pa.ssd@gmail.in\" and click register button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"RupalLalit\"",
+                  "offset": 37
+                },
+                {
+                  "val": "\"Rampersad\"",
+                  "offset": 50
+                },
+                {
+                  "val": "\"rupaLALITw\"",
+                  "offset": 62
+                },
+                {
+                  "val": "\"ruPa45*^-\"",
+                  "offset": 75
+                },
+                {
+                  "val": "\"pa.ssd@gmail.in\"",
+                  "offset": 87
+                }
+              ],
+              "location": "com.stepDefn.StepDefnintion.user_enter_the_data_in_register_page_and_click_register_button(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LAPTOP-LGQTGGGK\u0027, ip: \u0027192.168.0.100\u0027, os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002718.0.1.1\u0027\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: C:\\Users\\ciadmin\\Downloads\\..., appPackage: com.example.quizapp, databaseEnabled: false, desired: {app: C:\\Users\\ciadmin\\Downloads\\..., deviceName: Android Emulator, platformName: android}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 66, takesScreenshot: true, viewportRect: {height: 2142, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: e60c3807-52c8-4d5b-aaed-c1d3cc25b058\n*** Element info: {Using\u003did, value\u003dcom.example.quizapp:id/txtLogin}\r\n\tat java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69)\r\n\tat io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen(StepDefnintion.java:134)\r\n\tat ✽.the sucess alert displayed in the registration screen(file:///C:/Users/ciadmin/eclipse-workspace/AppiumDailyplanner/src/test/resources/Feature/QuizRegister.feature:7)\r\n",
+              "duration": 3658505700,
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "the sucess alert displayed in the registration screen",
+            "match": {
+              "location": "com.stepDefn.StepDefnintion.the_sucess_alert_displayed_in_the_registration_screen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify the quiz app registration",
+    "description": "",
+    "id": "verify-the-quiz-app-registration",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Feature/QuizRegister.feature",
+    "tags": []
+  }
+]
